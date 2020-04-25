@@ -33,6 +33,9 @@
 * Red
 * Green
 * Refactor
+
+### Keywords
+* Baby Step
   
 ### References
 * https://tw.alphacamp.co/blog/2015-03-02-tdd-kata
