@@ -1,9 +1,6 @@
 # kata-demo
 * http://codingdojo.org/
 
-### 91 Extreme Development
-* [Note](91.md) 
-
 ### Step
 * Global
   * Cmd + e -> Recent Files
@@ -26,6 +23,18 @@
 * Run (Red)
   * Alt + Shift + F10 -> Run
   * Alt + Shift + F10 -> Run Last Configuration
+
+### Extreme Development
+* thinking how to locate quickly
+  * VIM skill
+  * AceJump plugin
+* thinking how to edit effectively
+  * VIM skill
+    * 2 + (Ctrl A or X)
+  * IDE hot key
+    * V + (j or k) + Cmd D
+  * Postfix Custom Template
+  * Mix it !
 
 ### Test 3A
 * Arrange The Resources

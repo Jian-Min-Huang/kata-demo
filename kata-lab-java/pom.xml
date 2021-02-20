@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>kata-lab</artifactId>
+    <artifactId>kata-lab-java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>kata-lab</name>
+    <name>kata-lab-java</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>

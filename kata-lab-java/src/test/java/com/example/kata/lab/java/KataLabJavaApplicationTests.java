@@ -1,10 +1,10 @@
-package com.example.kata.lab;
+package com.example.kata.lab.java;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KataLabApplicationTests {
+class KataLabJavaApplicationTests {
 
     @Test
     void contextLoads() {
